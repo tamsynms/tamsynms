@@ -12,6 +12,8 @@
   font-size: 40px;
   color: white;
   background-color: orange;
+  border-radius: 100px;
+  border-style: groove;
   border-color: purple;
   float: right;
   width: 40%;
