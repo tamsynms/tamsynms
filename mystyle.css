@@ -1,3 +1,13 @@
+h1 {
+  font-size: 100px;
+  font-family: fantasy;
+  border-radius: 100px;
+  color: pink;
+  background-color: purple;
+  width: 75%;
+  padding: 5%;
+}
+
 #column_one {
   font-size: 40px;
   color: white;
@@ -32,7 +42,7 @@
 }
 
 p {
-  font-size: 50px;
+  font-size: 20px;
   color: brown;
   background-color: pink;
   border-width: medium;
