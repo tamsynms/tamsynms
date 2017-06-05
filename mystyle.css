@@ -25,6 +25,16 @@
   border-radius: 100px;
   border-color: purple;
   float: right;
-  width: 100%;
+  width: 80%;
+  padding: 3%;
+}
+
+p {
+  font-size: 50px;
+  color: brown;
+  background-color: pink;
+  border-width: medium;
+  border-color: brown;
+  width: 65%;
   padding: 3%;
 }
